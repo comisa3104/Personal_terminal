@@ -1,6 +1,12 @@
 # Personal Terminal 開発管理パッケージ v1.1
 ## iOS / iPadOS / Android クロスプラットフォーム対応版
 
+## 現在の基準版（2026-09-18確認）
+
+公開中の [Personal AI Terminal 1.1](https://personal-terminal-wireframe.skomy3810155.chatgpt.site/) を動作基準とする。`app/` は公開配信ファイルから取得した保全用スナップショットで、元の開発リポジトリではない。配信時に追加されたホスティング用スクリプトは除去した。サイトへの更新はこのリポジトリの変更だけでは行われない。
+
+現状調査と次の作業順は [docs/12_BASELINE_AUDIT.md](docs/12_BASELINE_AUDIT.md) を参照する。まず PT-001 の実機確認を終え、次の機能を一件ずつ決める。
+
 Personal Terminal v1.1を基準に、ChatGPTで要件・Taskを整理し、Codexで実装するためのMarkdown一式。
 
 ## 基本運用

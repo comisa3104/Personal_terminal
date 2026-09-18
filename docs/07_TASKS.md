@@ -3,6 +3,10 @@ Version: 1.1
 
 # PT-001 — Baseline Protection & Cross-Platform Audit
 
+## 2026-09-18 現状
+
+公開版 v1.1 の配信ファイルを `app/` に保全し、コードの一次調査を `docs/12_BASELINE_AUDIT.md` に記録した。公開版の元開発リポジトリと GitHub のこのリポジトリは別である。残る PT-001 は、iPhone/iPad/Android 実機での表示、操作、保存、バックアップ、オフライン動作の確認と、その結果の記録。これが終わるまで PT-002 の実装には進まない。
+
 ## Purpose
 Personal Terminal v1.1を基準版として保全し、
 iPhone/iPad/Android対応の観点から現行構造を把握する。
